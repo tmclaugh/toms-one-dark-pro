@@ -1,0 +1,21 @@
+{
+    "name": "toms-one-dark-pro",
+    "displayName": "Toms One Dark Pro",
+    "description": "Tom's personal One Dark Pro",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tom's One Dark Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Toms One Dark Pro-color-theme.json"
+            }
+        ]
+    }
+}
