@@ -2026,7 +2026,7 @@
 	  "editorSuggestWidget.border": "#181a1f",
 	  "editorSuggestWidget.selectedBackground": "#2c313a",
 	  "editorWarning.foreground": "#d19a66",
-	  "editorWhitespace.foreground": "#3b4048",
+	  "editorWhitespace.foreground": "#c24038",
 	  "editorWidget.background": "#21252b",
 	  "focusBorder": "#3e4452",
 	  "gitDecoration.ignoredResourceForeground": "#636b78",
