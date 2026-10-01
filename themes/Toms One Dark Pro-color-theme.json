@@ -783,7 +783,6 @@
 		"name": "Integers",
 		"scope": "constant.numeric",
 		"settings": {
-		  "fontStyle": "regular",
 		  "foreground": "#56b6c2"
 		}
 	  },
@@ -791,7 +790,6 @@
 		"name": "Constants",
 		"scope": "constant",
 		"settings": {
-		  "fontStyle": "regular",
 		  "foreground": "#d19a66"
 		}
 	  },
@@ -833,7 +831,6 @@
 		"name": "Attribute IDs",
 		"scope": "entity.other.attribute-name.id",
 		"settings": {
-		  "fontStyle": "normal",
 		  "foreground": "#61afef"
 		}
 	  },
@@ -841,7 +838,6 @@
 		"name": "Attribute class",
 		"scope": "entity.other.attribute-name.class.css",
 		"settings": {
-		  "fontStyle": "normal",
 		  "foreground": "#d19a66"
 		}
 	  },
@@ -1988,7 +1984,7 @@
 	  "editor.foreground": "#ffffffc9",
 	  "editor.findMatchBackground": "#6199ff2f",
 	  "editor.findMatchBorder": "#457dff",
-	  "editor.findMatchHighlightBackground": "#282c34",
+	  "editor.findMatchHighlightBackground": "#282c347a",
 	  "editor.findMatchHighlightBorder": "#457dff",
 	  "editorInlayHint.foreground": "#ffffffc9",
 	  "editorInlayHint.background": "#2c313c",
@@ -2099,6 +2095,5 @@
 	  "titleBar.inactiveBackground": "#21252b",
 	  "titleBar.inactiveForeground": "#6b717d",
 	  "walkThrough.embeddedEditorBackground": "#2e3440",
-	  "welcomePage.buttonHoverBackground": "#404754"
 	}
   }
